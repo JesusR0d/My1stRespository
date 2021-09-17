@@ -1,4 +1,4 @@
 # My1stRespository
 # My first repository on GitHub
 
-prinr (23)
+print (23)
